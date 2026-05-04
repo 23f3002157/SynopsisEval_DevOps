@@ -2,9 +2,17 @@
 .env
 .venc/
 __pycache__/
+.pytest_cache/
 node_modules/
 uploads/
 dist/
+test-results/
+.coverage
+coverage.xml
+sonar-project.properties
+coverage/
+*.log
+.scannerwork/
 .sonar
 help.txt
 pmql.md

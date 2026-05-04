@@ -13,6 +13,12 @@ email-validator
 pydantic
 pydantic-settings
 aiofiles
+python-dotenv  
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+anyio
 python-dotenv
 httpx
 prometheus-fastapi-instrumentator==6.1.0
